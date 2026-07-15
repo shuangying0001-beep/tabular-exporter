@@ -1,7 +1,7 @@
 ---
-name: tabular-exporter
+name: "记录数据一键导出 Excel/CSV（带样式）"
 display_name: 表格数据导出器
-description: 把记录数组导出为带样式的 Excel(xlsx) 或带 BOM 的 CSV。支持列配置（表头/宽度/顺序）、表头冻结首行、斑马纹、布尔值转「是/否」、数组换行、CSV 中文防乱码。零依赖。触发词：导出 Excel、导出 CSV、记录转表格、列配置导出、数据导出、表格美化、JSON 转表格。
+description: "把数组/JSON 导出成带表头冻结、斑马纹、是/否的漂亮 Excel/CSV。适合运营报表、数据导出、日志归档。"
 market_desc: 一行配置把任意 JSON 数组变成漂亮的 Excel 或 CSV——自定义列、表头加粗蓝底、冻结首行、斑马纹，中文 CSV 自带 BOM 不乱码。做数据报表、采集结果导出、后台导出时直接复用，零依赖免安装。
 version: 1.0.1
 ---
